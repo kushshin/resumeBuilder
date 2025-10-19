@@ -33,5 +33,5 @@ This module serves as the core resume creation component of the career platform.
 - Project and skill verification modules
 
 ## GitHub / Demo Link
-- GitHub: https://github.com/yourusername/resume-builder-trial
+- GitHub: https://github.com/kushshin/resumeBuilder.git
 
